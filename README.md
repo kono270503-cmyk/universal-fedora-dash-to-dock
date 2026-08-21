@@ -5,6 +5,6 @@
 ## Быстрый запуск одной командой
 Просто откройте терминал вашей Fedora (или любого другого дистрибутива с GNOME) и выполните следующую команду:
 
-```bash
-curl -sSL https://githubusercontent.com | bash
+```
+bach curl -sSL https://githubusercontent.com | bash
 ```
