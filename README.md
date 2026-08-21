@@ -6,5 +6,5 @@
 Просто откройте терминал вашей Fedora (или любого другого дистрибутива с GNOME) и выполните следующую команду:
 
 ```
-bach curl -sSL https://githubusercontent.com | bash
+bash curl -sSL https://githubusercontent.com | bash
 ```
